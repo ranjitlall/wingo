@@ -8,5 +8,5 @@ Lall, Ranjit. 2023. "Making Global Governance Accountable: Civil Society, States
 
 The data are accompanied by a codebook that provides a detailed description of all variables in the WINGO dataset, including their definition, scale, and sources.
 
-** Version 1.1 **
+**Version 1.1**
 Small error in sample corrected; codebook edited, with additional information on sample extraction.
